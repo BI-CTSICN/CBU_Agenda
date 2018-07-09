@@ -1,6 +1,6 @@
 # site settings
 title: CBU Meetings
-#theme: minima
+theme: minima
 email: bioinformatics@childrensnational.org
 github_username: BI-CTSICN
 rss: false

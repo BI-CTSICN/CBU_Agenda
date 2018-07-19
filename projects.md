@@ -6,7 +6,7 @@ menu: header
 |Project ID| Bioinformatics Analysis  | Requestor   | PI             | Department    | Status | Tags  | Done By |
 |----------| -----------------------  |:----------- | -------------- | ----------    | ------ |------ |------ |
 | |RNA Seq  | Maria       | Joshua Corbin  | Neuroscience  | `To Do` |Foxp2 Remainer dataset |Payal |
-| |TCR Seq | -       | Mike Keller  | Cancer  | `To Do` | TCR Data | Payal |
+| |TCR Seq | -       | Mike Keller  | Cancer  | `To Do` | TCR Data | Payal, Surajit|
 | |Microarray | -       | Prasad  | GW  | `To Do` |  | Surajit |
 | |Microarray | -       | Samira  | GenMed  | `Ongoing` | Asthma Project | Payal, Surajit |
 | |TCR Seq | -       | Mike Keller  | Cancer  | `Ongoing` | TCR Pilot | Payal |

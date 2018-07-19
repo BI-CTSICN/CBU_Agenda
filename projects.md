@@ -3,9 +3,6 @@ layout: page
 title: Project Dashboard
 menu: header
 ---
-
-## Children's Bioinformatics Unit (CBU) Project Dashboard
-
 |Project ID| Bioinformatics Analysis  | Requestor   | PI             | Department    | Status | Tags  | Done By |
 |----------| -----------------------  |:----------- | -------------- | ----------    | ------ |------ |------ |
 | |RNA Seq  | Maria       | Joshua Corbin  | Neuroscience  | `To Do` |Foxp2 Remainer dataset |Payal |

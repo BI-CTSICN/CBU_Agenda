@@ -26,8 +26,8 @@ menu: header
 | |Differential Gene Expression                  |   -    | Kazue  | Neuroscience  | `Done` | AB DEG|Payal |
 | |RNA Seq  | Toru       | Kazue   | Neuroscience  | `Done`|G151 - KHT samples |Payal |
 | |RNA Seq  | Toru       | Kazue   | Neuroscience  | `Done` |KHT30 and VN5 samples |Payal |
-| |RNA Seq  |      | Ishibasi   | Neuroscience  | `Done` |Pig dataset - G70 |Payal |
-| |Batch Effect Removal | Maria       | Joshua Corbin  | Neuroscience  | `Done` | |Payal, Surajit |
+| |RNA Seq  |      | Ishibasi   | Neuroscience  | `Done` |Pig dataset - G70 |Payal, Surajit |
+| |Batch Effect Removal | Maria       | Joshua Corbin  | Neuroscience  | `Done` | |Payal|
 | |Batch Effect Removal | Maria       | Joshua Corbin  | Neuroscience  | `Done` | |Payal |
 | |RNA Seq , Differential Gene Expression, TPM Pilot | Hayk       | Eric  | GenMed  | `Done` | |Payal, Surajit |
 | |Microarray Analysis | -       | Terry Patrige  | GenMed  | `Done` | |Surajit |

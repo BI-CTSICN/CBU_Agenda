@@ -7,7 +7,7 @@ menu: header
 |----------| -----------------------  |:----------- | -------------- | ----------    | ------ |------ |------ |
 | |RNA Seq  | Lee Sulgi    | Javad  | GenMed  | `To Do` | |Payal |
 | |RNA Seq  | Maria       | Joshua   | Neuroscience  | `Done` |Foxp2 Remainder dataset |Payal |
-| |TCR Seq | -       | Mike Keller  | Cancer  | `To Do` | TCR Data | Payal|
+| |TCR Seq | -       | Mike Keller  | Cancer  | `Ongoing` | TCR Data | Payal|
 | |Microarray | -       | Prasad  | GW  | `To Do` |  | Payal, Surajit |
 | |Microarray | -       | Samira  | GenMed  | `Ongoing` | Asthma Project | Payal, Surajit |
 | |TCR Seq | -       | Mike Keller  | Cancer  | `Ongoing` | TCR Pilot | Payal |

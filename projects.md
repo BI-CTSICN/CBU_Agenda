@@ -5,12 +5,12 @@ menu: header
 ---
 |Project ID| Bioinformatics Analysis  | Requestor   | PI             | Department    | Status | Tags  | Done By |
 |----------| -----------------------  |:----------- | -------------- | ----------    | ------ |------ |------ |
-| |RNA Seq  | Lee Sulgi    | Javad  | GenMed  | `To Do` | |Payal |
+| |RNA Seq  | Lee Sulgi    | Javad  | GenMed  | `Ongoing` | |Payal |
 | |RNA Seq  | Maria       | Joshua   | Neuroscience  | `Done` |Foxp2 Remainder dataset |Payal |
-| |TCR Seq | -       | Mike Keller  | Cancer  | `Ongoing` | TCR Data | Payal|
-| |Microarray | -       | Prasad  | GW  | `To Do` |  | Surajit |
-| |Microarray | -       | Samira  | GenMed  | `Ongoing` | Asthma Project | Payal, Surajit |
-| |TCR Seq | -       | Mike Keller  | Cancer  | `Ongoing` | TCR Pilot | Payal |
+| |TCR Seq | -       | Mike Keller  | Cancer  | `Done` | TCR Data | Payal|
+| |Microarray | -       | Prasad  | GW  | `Ongoing` |  | Surajit |
+| |Microarray | -       | Samira  | GenMed  | `Done` | Asthma Project | Payal, Surajit |
+| |TCR Seq | -       | Mike Keller  | Cancer  | `Done` | TCR Pilot | Payal |
 | |RNA Seq | Evan       | Vittorio  | Neuroscience  | `Done` | TRAP Pilot | Payal |
 | |RNA Seq | Toru       | Kazue  | Neuroscience  | `Done` | G216 | Payal |
 | |RNA Seq | Junko       | Kazue  | Neuroscience  | `Done` | G193 old PE, Mouse| Payal |

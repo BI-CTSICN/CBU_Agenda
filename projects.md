@@ -5,7 +5,10 @@ menu: header
 ---
 |Project ID| Bioinformatics Analysis  | Requestor   | PI             | Department    | Status | Tags  | Done By |
 |----------| -----------------------  |:----------- | -------------- | ----------    | ------ |------ |------ |
-| |RNA Seq  | Lee Sulgi    | Javad  | GenMed  | `Ongoing` | |Payal |
+| |WGS  | Shahid   | Kazue  | Neuroscaience | `Ongoing` | Transgenic HSP+Red protein brain |Surajit |
+| |RNA Seq  | Maria    | Joshua  | Neuroscaience | `Ongoing` | Foxp2,Dbx dataset rerun |Payal |
+| |RNA Seq  | Maria    | Joshua  | Neuroscaience | `Ongoing` | More Foxp2 adults dataset |Payal |
+| |RNA Seq  | Lee Sulgi    | Javad  | GenMed  | `Done` | |Payal |
 | |RNA Seq  | Maria       | Joshua   | Neuroscience  | `Done` |Foxp2 Remainder dataset |Payal |
 | |TCR Seq | -       | Mike Keller  | Cancer  | `Done` | TCR Data | Payal|
 | |Microarray | -       | Prasad  | GW  | `Ongoing` |  | Surajit |

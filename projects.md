@@ -5,7 +5,7 @@ menu: header
 ---
 |Project ID| Bioinformatics Analysis  | Requestor   | PI             | Department    | Status | Tags  | Done By |
 |----------| -----------------------  |:----------- | -------------- | ----------    | ------ |------ |------ |
-| |WGS  | Shahid   | Kazue  | Neuroscaience | `Ongoing` | Transgenic HSP+Red protein brain |Surajit |
+| |WGS  | Shahid   | Kazue  | Neuroscaience | `Ongoing` | Transgenic HSP+Red protein in mouse brain |Surajit |
 | |RNA Seq  | Maria    | Joshua  | Neuroscaience | `Ongoing` | Foxp2,Dbx dataset rerun |Payal |
 | |RNA Seq  | Maria    | Joshua  | Neuroscaience | `Ongoing` | More Foxp2 adults dataset |Payal |
 | |RNA Seq  | Lee Sulgi    | Javad  | GenMed  | `Done` | |Payal |

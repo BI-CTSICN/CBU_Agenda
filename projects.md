@@ -6,10 +6,10 @@ menu: header
 |Project ID| Bioinformatics Analysis  | Requestor   | PI             | Department    | Status | Tags  | Done By |
 |----------| -----------------------  |:----------- | -------------- | ----------    | ------ |------ |------ |
 | |RNA Seq  | Val Stephanie    |   | Genmed/Sheikh | `Ongoing` | Otitis media |Payal |
-| |RNA Seq  | Katrina Adams    | Vittorio  | Neuroscaience | `Done` | G245 |Payal |
+| |RNA Seq  | Katrina Adams    | Vittorio  | Neuroscience | `Done` | G245 |Payal |
 | |WGS  | Shahid   | Kazue  | Neuroscaience | `Ongoing` | Transgenic HSP+Red protein in mouse brain |Surajit |
-| |RNA Seq  | Maria    | Joshua  | Neuroscaience | `Done` | Foxp2,Dbx dataset rerun |Payal |
-| |RNA Seq  | Maria    | Joshua  | Neuroscaience | `Done` | More Foxp2 adults dataset |Payal |
+| |RNA Seq  | Maria    | Joshua  | Neuroscience | `Done` | Foxp2,Dbx dataset rerun |Payal |
+| |RNA Seq  | Maria    | Joshua  | Neuroscience | `Done` | More Foxp2 adults dataset |Payal |
 | |RNA Seq  |     | Zee Lab  | Genmed | `Done` |  |Surajit |
 | |RNA Seq  | Lee Sulgi    | Javad  | GenMed  | `Done` | |Payal |
 | |RNA Seq  | Maria       | Joshua   | Neuroscience  | `Done` |Foxp2 Remainder dataset |Payal |

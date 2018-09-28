@@ -3,8 +3,8 @@ layout: page
 title: Project Dashboard
 menu: header
 ---
-|Project ID| Bioinformatics Analysis  | Requestor   | PI             | Department    | Status | Tags  | Done By |
-|----------| -----------------------  |:----------- | -------------- | ----------    | ------ |------ |------ |
+|Project ID| Bioinformatics Analysis  | Requestor   | PI             | Department    | Status | Tags  | Done By |IDDRC (Y/N)| Start Date | End Date|
+|----------| -----------------------  |:----------- | -------------- | ----------    | ------ |------ |------ |------ |------ |------ |
 | |RNA Seq + DGE  | Val Stephanie    |   | Genmed/Sheikh | `Ongoing` | Otitis media |Payal |
 | |RNA Seq + DGE  | Katrina Adams    | Vittorio  | Neuroscience | `Done` | G245 |Payal |
 | |WGS  | Shahid   | Kazue  | Neuroscaience | `Ongoing` | Transgenic HSP+Red protein in mouse brain |Surajit |

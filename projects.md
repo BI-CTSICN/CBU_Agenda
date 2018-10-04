@@ -9,7 +9,7 @@ menu: header
 | |RNA Seq + DGE  | Val Stephanie    |   | Genmed/Sheikh | `Ongoing` | Otitis media,Part2 |Payal |N|10/1/2018 |------ |
 | |RNA Seq + DGE  | Val Stephanie    |   | Genmed/Sheikh | `Done` | Otitis media, Part1 |Payal |N |------ |------ |
 | |RNA Seq + DGE  | Katrina Adams    | Vittorio  | Neuroscience | `Done` | G245 |Payal |N |------ |------ |
-| |WGS  | Shahid   | Kazue  | Neuroscaience | `Ongoing` | Transgenic HSP+Red protein in mouse brain |Surajit |N |------ |------ |
+| |WGS  | Shahid   | Kazue  | Neuroscaience | `Done` | Transgenic HSP+Red protein in mouse brain |Surajit |N |------ |------ |
 | |RNA Seq  | Maria    | Joshua  | Neuroscience | `Done` | Foxp2,Dbx dataset rerun |Payal |N |------ |------ |
 | |RNA Seq  | Maria    | Joshua  | Neuroscience | `Done` | More Foxp2 adults dataset |Payal |N |------ |------ |
 | |RNA Seq  |     | Zee Lab  | Genmed | `Done` |  |Surajit |N |------ |------ |

@@ -5,9 +5,9 @@ menu: header
 ---
 |Project ID| Bioinformatics Analysis  | Requestor   | PI             | Department    | Status | Tags  | Done By |IDDRC (Y/N)| Start Date | End Date|
 |----------| -----------------------  |:----------- | -------------- | ----------    | ------ |------ |------ |------ |------ |------ |
-| |RNA Seq + DGE  | Val Stephanie    |   | Genmed/Sheikh | `Ongoing` | Otitis media |Payal |
-| |RNA Seq + DGE  | Katrina Adams    | Vittorio  | Neuroscience | `Done` | G245 |Payal |
-| |WGS  | Shahid   | Kazue  | Neuroscaience | `Ongoing` | Transgenic HSP+Red protein in mouse brain |Surajit |
+| |RNA Seq + DGE  | Val Stephanie    |   | Genmed/Sheikh | `Ongoing` | Otitis media |Payal |------ |------ |------ |
+| |RNA Seq + DGE  | Katrina Adams    | Vittorio  | Neuroscience | `Done` | G245 |Payal |------ |------ |------ |
+| |WGS  | Shahid   | Kazue  | Neuroscaience | `Ongoing` | Transgenic HSP+Red protein in mouse brain |Surajit |------ |------ |------ |
 | |RNA Seq  | Maria    | Joshua  | Neuroscience | `Done` | Foxp2,Dbx dataset rerun |Payal |
 | |RNA Seq  | Maria    | Joshua  | Neuroscience | `Done` | More Foxp2 adults dataset |Payal |
 | |RNA Seq  |     | Zee Lab  | Genmed | `Done` |  |Surajit |

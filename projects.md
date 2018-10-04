@@ -5,6 +5,7 @@ menu: header
 ---
 |Project ID| Bioinformatics Analysis  | Requestor   | PI             | Department    | Status | Tags  | Done By |IDDRC (Y/N)| Start Date | End Date|
 |----------| -----------------------  |:----------- | -------------- | ----------    | ------ |------ |------ |------ |------ |------ |
+| |RNA Seq + DGE - Batch correction  | Katrina Adams    | Vittorio  | Neuroscience | `Ongoing` | continued from G245- Cell line2 |Payal |N|10/1/2018 |------ |
 | |RNA Seq + DGE  | Val Stephanie    |   | Genmed/Sheikh | `Ongoing` | Otitis media,Part2 |Payal |N|10/1/2018 |------ |
 | |RNA Seq + DGE  | Val Stephanie    |   | Genmed/Sheikh | `Done` | Otitis media, Part1 |Payal |N |------ |------ |
 | |RNA Seq + DGE  | Katrina Adams    | Vittorio  | Neuroscience | `Done` | G245 |Payal |N |------ |------ |

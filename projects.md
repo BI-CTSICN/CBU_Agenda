@@ -11,38 +11,38 @@ menu: header
 | |WGS  | Shahid   | Kazue  | Neuroscaience | `Ongoing` | Transgenic HSP+Red protein in mouse brain |Surajit |N |------ |------ |
 | |RNA Seq  | Maria    | Joshua  | Neuroscience | `Done` | Foxp2,Dbx dataset rerun |Payal |N |------ |------ |
 | |RNA Seq  | Maria    | Joshua  | Neuroscience | `Done` | More Foxp2 adults dataset |Payal |N |------ |------ |
-| |RNA Seq  |     | Zee Lab  | Genmed | `Done` |  |Surajit |
-| |RNA Seq  | Lee Sulgi    | Javad  | GenMed  | `Done` | |Payal |
-| |RNA Seq  | Maria       | Joshua   | Neuroscience  | `Done` |Foxp2 Remainder dataset |Payal |
-| |TCR Seq | -       | Mike Keller  | Cancer  | `Done` | TCR Data | Payal|
-| |Microarray | -       | Prasad  | GW  | `Ongoing` |  | Surajit |
-| |Microarray | -       | Samira  | GenMed  | `Done` | Asthma Project | Payal, Surajit |
-| |TCR Seq | -       | Mike Keller  | Cancer  | `Done` | TCR Pilot | Payal |
-| |RNA Seq | Evan       | Vittorio  | Neuroscience  | `Done` | TRAP Pilot | Payal |
-| |RNA Seq | Toru       | Kazue  | Neuroscience  | `Done` | G216 | Payal |
-| |RNA Seq | Junko       | Kazue  | Neuroscience  | `Done` | G193 old PE, Mouse| Payal |
-| |RNA Seq | Junko       | Kazue  | Neuroscience  | `Done` | G193 new PE, Mouse | Payal |
-| |RNA Seq | Junko       | Kazue  | Neuroscience  | `Done` | G193 old SE, Mouse | Payal |
-| |RNA Seq | Maria       | Joshua Corbin  | Neuroscience  | `Done` |FACs Dbx E13 and E18 |Payal |
-| |RNA Seq  | Maria       | Joshua Corbin  | Neuroscience  | `Done` |GFP values |Payal |
-| |RNA Seq  | Maria       | Joshua Corbin  | Neuroscience  | `Done` |Foxp2 E13, E18 |Payal |
-| |RNA Seq  | Claire       | Anna Penn  | Neuroscience  | `Done` |AKR cortex embryo |Payal |
-| |RNA Seq  | Junko Sasaki       | Kazue  | Neuroscience  | `Done` | G193 new PE, Human|Payal |
-| |RNA Seq  |Toru       | Kazue  | Neuroscience  | `Done` | TS|Payal |
-| |RNA Seq  | Toru       | Kazue  | Neuroscience  | `Done`|TS ERCC |Payal |
-| |Differential Gene Expression                  |   -    | Kazue  | Neuroscience  | `Done` | AB DEG|Payal |
-| |RNA Seq  | Toru       | Kazue   | Neuroscience  | `Done`|G151 - KHT samples |Payal |
-| |RNA Seq  | Toru       | Kazue   | Neuroscience  | `Done` |KHT30 and VN5 samples |Payal |
-| |RNA Seq  |      | Ishibasi   | Neuroscience  | `Done` |Pig dataset - G70 |Payal, Surajit |
-| |Batch Effect Removal | Maria       | Joshua Corbin  | Neuroscience  | `Done` | |Payal|
-| |Batch Effect Removal | Maria       | Joshua Corbin  | Neuroscience  | `Done` | |Payal |
-| |RNA Seq , Differential Gene Expression, TPM Pilot | Hayk       | Eric  | GenMed  | `Done` | |Payal, Surajit |
-| |Microarray Analysis | -       | Terry Patrige  | GenMed  | `Done` | |Surajit |
-| |Exosome Transcriptome Analysis    | -      | Susan | GenMed | `Done` | |Surajit |
-| |RNA Seq  | -     | Posnack Lab  | GenMed  | `Done` | |Surajit |
-| |RNA Seq | -     | Yi-Wen  | GenMed  | `Done` | |Surajit |
-| |microRNA analysis of Transcriptome data | -     | Susan  | GenMed  | `Done` | |Surajit |
-| |RNA Seq | -     | Kazue  | GenMed  | `Done` | |Surajit |
-| |Microarray Analysis  | -       | Abhinash  | Sheikh Zayed  | `Done` | |Surajit |
-| |Microarray Analysis  | -       | Yi-Wen  | GenMed  | `Done` | |Surajit |
-| |Microarray Analysis  | -       | Zi-Han  | GenMed  | `Done` | |Surajit |
+| |RNA Seq  |     | Zee Lab  | Genmed | `Done` |  |Surajit |N |------ |------ |
+| |RNA Seq  | Lee Sulgi    | Javad  | GenMed  | `Done` | |Payal |N |------ |------ |
+| |RNA Seq  | Maria       | Joshua   | Neuroscience  | `Done` |Foxp2 Remainder dataset |Payal |N |------ |------ |
+| |TCR Seq | -       | Mike Keller  | Cancer  | `Done` | TCR Data | Payal|N |------ |------ |
+| |Microarray | -       | Prasad  | GW  | `Ongoing` |  | Surajit |N |------ |------ |
+| |Microarray | -       | Samira  | GenMed  | `Done` | Asthma Project | Payal, Surajit |N |------ |------ |
+| |TCR Seq | -       | Mike Keller  | Cancer  | `Done` | TCR Pilot | Payal |N |------ |------ |
+| |RNA Seq | Evan       | Vittorio  | Neuroscience  | `Done` | TRAP Pilot | Payal |N |------ |------ |
+| |RNA Seq | Toru       | Kazue  | Neuroscience  | `Done` | G216 | Payal |N |------ |------ |
+| |RNA Seq | Junko       | Kazue  | Neuroscience  | `Done` | G193 old PE, Mouse| Payal |N |------ |------ |
+| |RNA Seq | Junko       | Kazue  | Neuroscience  | `Done` | G193 new PE, Mouse | Payal |N |------ |------ |
+| |RNA Seq | Junko       | Kazue  | Neuroscience  | `Done` | G193 old SE, Mouse | Payal |N |------ |------ |
+| |RNA Seq | Maria       | Joshua Corbin  | Neuroscience  | `Done` |FACs Dbx E13 and E18 |Payal |N |------ |------ |
+| |RNA Seq  | Maria       | Joshua Corbin  | Neuroscience  | `Done` |GFP values |Payal |N |------ |------ |
+| |RNA Seq  | Maria       | Joshua Corbin  | Neuroscience  | `Done` |Foxp2 E13, E18 |Payal |N |------ |------ |
+| |RNA Seq  | Claire       | Anna Penn  | Neuroscience  | `Done` |AKR cortex embryo |Payal |N |------ |------ |
+| |RNA Seq  | Junko Sasaki       | Kazue  | Neuroscience  | `Done` | G193 new PE, Human|Payal |N |------ |------ |
+| |RNA Seq  |Toru       | Kazue  | Neuroscience  | `Done` | TS|Payal |N |------ |------ |
+| |RNA Seq  | Toru       | Kazue  | Neuroscience  | `Done`|TS ERCC |Payal |N |------ |------ |
+| |Differential Gene Expression                  |   -    | Kazue  | Neuroscience  | `Done` | AB DEG|Payal |N |------ |------ |
+| |RNA Seq  | Toru       | Kazue   | Neuroscience  | `Done`|G151 - KHT samples |Payal |N |------ |------ |
+| |RNA Seq  | Toru       | Kazue   | Neuroscience  | `Done` |KHT30 and VN5 samples |Payal |N |------ |------ |
+| |RNA Seq  |      | Ishibasi   | Neuroscience  | `Done` |Pig dataset - G70 |Payal, Surajit |N |------ |------ |
+| |Batch Effect Removal | Maria       | Joshua Corbin  | Neuroscience  | `Done` | |Payal|N |------ |------ |
+| |Batch Effect Removal | Maria       | Joshua Corbin  | Neuroscience  | `Done` | |Payal |N |------ |------ |
+| |RNA Seq , Differential Gene Expression, TPM Pilot | Hayk       | Eric  | GenMed  | `Done` | |Payal, Surajit |N |------ |------ |
+| |Microarray Analysis | -       | Terry Patrige  | GenMed  | `Done` | |Surajit |N |------ |------ |
+| |Exosome Transcriptome Analysis    | -      | Susan | GenMed | `Done` | |Surajit |N |------ |------ |
+| |RNA Seq  | -     | Posnack Lab  | GenMed  | `Done` | |Surajit |N |------ |------ |
+| |RNA Seq | -     | Yi-Wen  | GenMed  | `Done` | |Surajit |N |------ |------ |
+| |microRNA analysis of Transcriptome data | -     | Susan  | GenMed  | `Done` | |Surajit |N |------ |------ |
+| |RNA Seq | -     | Kazue  | GenMed  | `Done` | |Surajit |N |------ |------ |
+| |Microarray Analysis  | -       | Abhinash  | Sheikh Zayed  | `Done` | |Surajit |N |------ |------ |
+| |Microarray Analysis  | -       | Yi-Wen  | GenMed  | `Done` | |Surajit |N |------ |------ |
+| |Microarray Analysis  | -       | Zi-Han  | GenMed  | `Done` | |Surajit |N |------ |------ |

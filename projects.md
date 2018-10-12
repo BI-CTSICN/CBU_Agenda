@@ -5,6 +5,7 @@ menu: header
 ---
 |Project ID| Bioinformatics Analysis  | Requestor   | PI             | Department    | Status | Tags  | Done By |IDDRC (Y/N)| Start Date | End Date|
 |----------| -----------------------  |:----------- | -------------- | ----------    | ------ |------ |------ |------ |------ |------ |
+| |RNA Seq  | Maria    |Joshua   | Neuroscience | `Pending` | Old dataset - Redo Tophat pipeline |Payal |N|------ |------ |
 | |RNA Seq  | Camille    | Nobu   | Neuroscience | `Pending` | Pig old dataset - Redo |Surajit |N|------ |------ |
 | |BED file  | Camille    | Nobu   | Neuroscience | `Pending` | Pig old dataset - Liftover |Surajit |N|------ |------ |
 | |RNA Seq  | Camille    | Nobu   | Neuroscience | `Pending` | Pig new dataset |Payal |N|------ |------ |

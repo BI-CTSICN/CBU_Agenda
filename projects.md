@@ -5,8 +5,11 @@ menu: header
 ---
 |Project ID| Bioinformatics Analysis  | Requestor   | PI             | Department    | Status | Tags  | Done By |IDDRC (Y/N)| Start Date | End Date|
 |----------| -----------------------  |:----------- | -------------- | ----------    | ------ |------ |------ |------ |------ |------ |
-| |RNA Seq + DGE - Batch correction  | Katrina Adams    | Vittorio  | Neuroscience | `Ongoing` | continued from G245- Cell line2 |Payal |N|10/1/2018 |------ |
+| |RNA Seq  | Camille    | Nobu   | Neuroscience | `Pending` | Pig old dataset - Redo |Surajit |N|------ |------ |
+| |BED file  | Camille    | Nobu   | Neuroscience | `Pending` | Pig old dataset - Liftover |Surajit |N|------ |------ |
+| |RNA Seq  | Camille    | Nobu   | Neuroscience | `Pending` | Pig new dataset |Payal |N|------ |------ |
 | |RNA Seq + DGE  | Val Stephanie    |   | Genmed/Sheikh | `Ongoing` | Otitis media,Part2 |Payal |N|10/1/2018 |------ |
+| |RNA Seq + DGE - Batch correction  | Katrina Adams    | Vittorio  | Neuroscience | `Done` | continued from G245- Cell line2 |Payal |N|10/1/2018 |------ |
 | |RNA Seq + DGE  | Val Stephanie    |   | Genmed/Sheikh | `Done` | Otitis media, Part1 |Payal |N |------ |------ |
 | |RNA Seq + DGE  | Katrina Adams    | Vittorio  | Neuroscience | `Done` | G245 |Payal |N |------ |------ |
 | |WGS  | Shahid   | Kazue  | Neuroscaience | `Done` | Transgenic HSP+Red protein in mouse brain |Surajit |N |------ |------ |

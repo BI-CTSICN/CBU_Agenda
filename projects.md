@@ -5,12 +5,12 @@ menu: header
 ---
 |Project ID| Bioinformatics Analysis  | Requestor   | PI             | Department    | Status | Tags  | Done By |IDDRC (Y/N)| Start Date | End Date|
 |----------| -----------------------  |:----------- | -------------- | ----------    | ------ |------ |------ |------ |------ |------ |
-| |RNA Seq  | Maria    |Joshua   | Neuroscience | `Pending` | Old dataset - Redo Tophat pipeline |Payal |N|10/18/2018 |------ |
+| |RNA Seq  | Maria    |Joshua   | Neuroscience | `Ongoing` | Old dataset - Redo Tophat pipeline |Payal |N|10/18/2018 |------ |
 | |RNA Seq  | Camille    | Nobu   | Neuroscience | `Pending` | Pig old dataset - Redo |Surajit |N|------ |------ |
 | |BED file  | Camille    | Nobu   | Neuroscience | `Pending` | Pig old dataset - Liftover |Surajit |N|------ |------ |
-| |RNA Seq  | Camille    | Nobu   | Neuroscience | `Pending` | Pig new dataset |Payal |N|10/19/2018 |10/25/2018 |
-| |RNA Seq + DGE  | Val Stephanie    |   | Genmed/Sheikh | `Ongoing` | Otitis media,Part2 |Payal |N|10/5/2018 |10/17/2018 |
-| |RNA Seq + DGE - Batch correction  | Katrina Adams    | Vittorio  | Neuroscience | `Done` | continued from G245- Cell line2 |Payal |N|10/1/2018 |------ |
+| |RNA Seq  | Camille    | Nobu   | Neuroscience | `Done` | Pig new dataset |Payal |N|10/19/2018 |10/25/2018 |
+| |RNA Seq + DGE  | Val Stephanie    |   | Genmed/Sheikh | `Done` | Otitis media,Part2 |Payal |N|10/5/2018 |10/17/2018 |
+| |RNA Seq + DGE - Batch correction  | Katrina Adams    | Vittorio  | Neuroscience | `Done` | continued from G245- Cell line2 |Payal |N|10/1/2018 |10/5/2018 |
 | |RNA Seq + DGE  | Val Stephanie    |   | Genmed/Sheikh | `Done` | Otitis media, Part1 |Payal |N |------ |------ |
 | |RNA Seq + DGE  | Katrina Adams    | Vittorio  | Neuroscience | `Done` | G245 |Payal |N |------ |------ |
 | |WGS  | Shahid   | Kazue  | Neuroscaience | `Done` | Transgenic HSP+Red protein in mouse brain |Surajit |N |------ |------ |

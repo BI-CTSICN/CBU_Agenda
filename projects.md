@@ -5,6 +5,8 @@ menu: header
 ---
 |Project ID| Bioinformatics Analysis  | Requestor   | PI             | Department    | Status | Tags  | Done By |IDDRC (Y/N)| Start Date | End Date|
 |----------| -----------------------  |:----------- | -------------- | ----------    | ------ |------ |------ |------ |------ |------ |
+| |RNA Seq  | Katrina    |Vittorio   | Neuroscience | `Ongoing` | Old dataset - Redo rna seq quality metrics  |Payal |N|11/14/2018 |------ |
+| |RNA Seq  | Maria    |Joshua   | Neuroscience | `Ongoing` | Old dataset - Redo duplicate removal and rna seq quality metrics pipeline |Payal |N|11/9/2018 |------ |
 | |RNA Seq  | Maria    |Joshua   | Neuroscience | `Ongoing` | Old dataset - Redo Tophat pipeline |Payal |N|10/18/2018 |------ |
 | |RNA Seq  | Camille    | Nobu   | Neuroscience | `Pending` | Pig old dataset - Redo |Surajit |N|------ |------ |
 | |BED file  | Camille    | Nobu   | Neuroscience | `Pending` | Pig old dataset - Liftover |Surajit |N|------ |------ |

@@ -5,7 +5,7 @@ menu: header
 ---
 |Project ID| Bioinformatics Analysis  | Requestor   | PI             | Department    | Status | Tags  | Done By |IDDRC (Y/N)| Start Date | End Date|
 |----------| -----------------------  |:----------- | -------------- | ----------    | ------ |------ |------ |------ |------ |------ |
-| |16s rRNA  | Catherine Forester | | Genmed | `Done` | Microbial community UTI vs UTC  |Payal |N|11/15/2018 |------ |
+| |16s rRNA  | Catherine Forester | | Genmed | `Done` | Microbial community UTI vs UTC  |Payal |N|12/10/2018 |12/20/2018 |
 | |RNA Seq  | Maria   |Josh  | Neuroscience | `Pending` | Cre Sequences  |Payal |N|11/25/2018 |------ |
 | |RNA Seq  |  Evan |Vittorio| Neuroscience | `Pending` | New dataset  |Payal |N|12/10/2018 |------ |
 | |RNA Seq  |  Toru  |Kazue| Neuroscience | `Pending` | New dataset  |Payal |N|12/15/2018 |------ |

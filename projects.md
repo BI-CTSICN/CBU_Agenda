@@ -5,9 +5,10 @@ menu: header
 ---
 |Project ID| Bioinformatics Analysis  | Requestor   | PI             | Department    | Status | Tags  | Done By |IDDRC (Y/N)| Start Date | End Date|
 |----------| -----------------------  |:----------- | -------------- | ----------    | ------ |------ |------ |------ |------ |------ |
-| |RNA Seq  |  Evan |Vittorio| Neuroscience | `Ongoing` | New dataset  |Payal |N|12/10/2018 |------ |
-| |RNA Seq  |  Junko |Kazue| Neuroscience | `Pending` | New dataset  |Payal |N|1/9/2019 |------ |
-| |RNA Seq  | Katrina    |Vittorio   | Neuroscience | `Pending` | Old dataset - Redo rna seq quality metrics  |Payal |N|11/14/2018 |------ |
+| |RNA Seq  |  Evan |Vittorio| Neuroscience | `Done` | G276   |Payal |N|12/10/2018 |1/15/2019 |
+| |RNA Seq  |  Toru |Kazue| Neuroscience | `Done` | G356 |Payal |N|1/9/2019 |1/25/2019 |
+| |RNA Seq  |  Junko |Kazue| Neuroscience | `Done` | G231 |Payal |N|1/9/2019 |1/20/2019 |
+| |RNA Seq  | Katrina    |Vittorio   | Neuroscience | `Done` | Old dataset - Redo rna seq quality metrics & DEG |Payal |N|11/14/2018 |1/18/2019 |
 | |16s rRNA  | Catherine Forester | | Genmed | `Done` | Microbial community UTI vs UTC  |Payal |N|12/10/2018 |12/20/2018 |
 | |RNA Seq  | Maria   |Josh  | Neuroscience | `Done` | Cre Sequences  |Payal |N|11/25/2018 |1/9/2018 |
 | |RNA Seq  |  Toru  |Kazue| Neuroscience | `Done` | New dataset  |Payal |N|12/15/2018 |12/20//2018|

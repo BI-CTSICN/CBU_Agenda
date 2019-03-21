@@ -5,6 +5,8 @@ menu: header
 ---
 |Project ID| Bioinformatics Analysis  | Requestor   | PI             | Department    | Status | Tags  | Done By |IDDRC (Y/N)| Start Date | End Date|
 |----------| -----------------------  |:----------- | -------------- | ----------    | ------ |------ |------ |------ |------ |------ |
+| |RNA Seq  | Toru   |Kazue  | Neuroscience | `Ongoing` | G435 |Payal |Y|3/20/2019 | |
+| |RNA Seq  | Nemanja   |Ishibashi  | Neuroscience | `Ongoing` | Pig |Surojit |Y|3/1/2019 | |
 | |RNA Seq  | Maria   |Josh  | Neuroscience | `Done` | Featurecounts embryo samples |Payal |Y|3/1/2019 |3/7/2019 |
 | |RNA Seq  | Maria   |Josh  | Neuroscience | `Done` | Picard Qc metrics embryo samples |Payal |Y|1/20/2019 |2/8/2019 |
 | |RNA Seq  |  Evan |Vittorio| Neuroscience | `Done` | G276   |Payal |N|12/10/2018 |1/15/2019 |

@@ -9,7 +9,7 @@ menu: header
 | |Microarray | Nikki Posnack  |   | Genmed  | `Coming` | 12 Clariom S Affy Arrays | |N|August
 | |TCR  | Melanie/?Bollard/Rood || Cancer| `Coming` |   |Payal |N|July | |
 | |Single Cell  | Susan || Genmed| `Coming` |   |Surajit |Y?| July| |
-| |Single Cell  | Ishibashi |Camille| Neuroscience| `Coming` |   |Payal |N| July| |
+| |Single Cell  | Camille |Ishibashi| Neuroscience| `Coming` |   |Payal |N| July| |
 | |RNA Seq  | James Novak || Genmed | `Coming` |   |Payal |N|July | |
 | |RNA Seq  |  Evan |Vittorio| Neuroscience | `Coming` |   |Payal |N| July| |
 | |Microarray | Kate Schunke  |   | Genmed (Clinical) | `To Do` | Human |Surajit |N|July

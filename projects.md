@@ -5,7 +5,6 @@ menu: header
 ---
 |Project ID| Bioinformatics Analysis  | Requestor   | PI             | Department    | Status | Tags  | Done By |IDDRC (Y/N)| Start Date | End Date|
 |----------| -----------------------  |:----------- | -------------- | ----------    | ------ |------ |------ |------ |------ |------ |
-
 | |Microarray | Ashley Hill  |   | Genmed  | `Coming` |32 Methylation Arrays | |N|August
 | |Microarray | Nikki Posnack  |   | Genmed  | `Coming` | 12 Clariom S Affy Arrays | |N|August
 | |TCR  | Melanie/?Bollard/Rood || Cancer| `Coming` |   |Payal |N| | |

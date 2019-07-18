@@ -5,7 +5,6 @@ menu: header
 ---
 |Project ID| Bioinformatics Analysis  | Requestor   | PI             | Department    | Status | Tags  | Done By |IDDRC (Y/N)| Start Date | End Date|
 |----------| -----------------------  |:----------- | -------------- | ----------    | ------ |------ |------ |------ |------ |------ |
-
 | |RNA Seq + DGE | Katrina    |Vittorio   | Neuroscience | `Done` | Cell line2 G245 |Payal |Y|July
 | |Single cell RNA Seq  |Marshall   |Jyoti  | Genmed | `Done` |  |Surajit |Y|June
 | |RNA Seq  |Nemnaja    |Ishibashi  | Neuroscience | `Done` | Redo pig dataset with alternative pipleine |Payal |N|July

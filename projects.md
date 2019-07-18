@@ -7,7 +7,7 @@ menu: header
 |----------| -----------------------  |:----------- | -------------- | ----------    | ------ |------ |------ |------ |------ |------ |
 | |Microarray | Ashley Hill  |   | Genmed  | `Coming` |32 Methylation Arrays | |N|August
 | |Microarray | Nikki Posnack  |   | Genmed  | `Coming` | 12 Clariom S Affy Arrays | |N|August
-| |TCR  | Melanie/?Bollard/Rood || Cancer| `Coming` |   |Payal |N| | July|
+| |TCR  | Melanie/?Bollard/Rood || Cancer| `Coming` |   |Payal |N|July | |
 | |Single Cell  | Susan || Genmed| `Coming` |   |Surajit |Y?| July| |
 | |Single Cell  | Ishibashi |Camille| Neuroscience| `Coming` |   |Payal |N| July| |
 | |RNA Seq  | James Novak || Genmed | `Coming` |   |Payal |N|July | |

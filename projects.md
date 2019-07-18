@@ -7,11 +7,11 @@ menu: header
 |----------| -----------------------  |:----------- | -------------- | ----------    | ------ |------ |------ |------ |------ |------ |
 | |Microarray | Ashley Hill  |   | Genmed  | `Coming` |32 Methylation Arrays | |N|August
 | |Microarray | Nikki Posnack  |   | Genmed  | `Coming` | 12 Clariom S Affy Arrays | |N|August
-| |TCR  | Melanie/?Bollard/Rood || Cancer| `Coming` |   |Payal |N| | |
-| |Single Cell  | Susan || Genmed| `Coming` |   |Surajit |Y?| | |
-| |Single Cell  | Ishibashi |Camille| Neuroscience| `Coming` |   |Payal |N| | |
-| |RNA Seq  | James Novak || Genmed | `Coming` |   |Payal |N| | |
-| |RNA Seq  |  Evan |Vittorio| Neuroscience | `Coming` |   |Payal |N| | |
+| |TCR  | Melanie/?Bollard/Rood || Cancer| `Coming` |   |Payal |N| | July|
+| |Single Cell  | Susan || Genmed| `Coming` |   |Surajit |Y?| July| |
+| |Single Cell  | Ishibashi |Camille| Neuroscience| `Coming` |   |Payal |N| July| |
+| |RNA Seq  | James Novak || Genmed | `Coming` |   |Payal |N|July | |
+| |RNA Seq  |  Evan |Vittorio| Neuroscience | `Coming` |   |Payal |N| July| |
 | |Microarray | Kate Schunke  |   | Genmed (Clinical) | `To Do` | Human |Surajit |N|July
 | |Microarray | Kate Schunke  |   | Genmed (Clinical) | `To Do` | Rat |Surajit |N|July
 | |Single Seq | Joseph    |Vittorio   | Neuroscience | `Ongoing` | Old Fluidigm C1 dataset |Payal/Surajit |N|July

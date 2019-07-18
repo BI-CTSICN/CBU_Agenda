@@ -5,11 +5,17 @@ menu: header
 ---
 |Project ID| Bioinformatics Analysis  | Requestor   | PI             | Department    | Status | Tags  | Done By |IDDRC (Y/N)| Start Date | End Date|
 |----------| -----------------------  |:----------- | -------------- | ----------    | ------ |------ |------ |------ |------ |------ |
+| |Single Cell  | Ishibashi |Camille| Neuroscience| `Coming` |   |Payal |N| | |
+| |RNA Seq  | Susan || Genmed | `Coming` |   |Payal |N| | |
+| |RNA Seq  |  Evan |Vittorio| Neuroscience | `Coming` |   |Payal |N| | |
+| |Microarray | Kate Schunke  |   | Genmed (Clinical) | `To Do` | Human |Surajit |N|July
+| |Microarray | Kate Schunke  |   | Genmed (Clinical) | `To Do` | Rat |Surajit |N|July
+| |Single Seq | Joseph    |Vittorio   | Neuroscience | `Ongoing` | Old Fluidigm C1 dataset |Payal/Surajit |N|July
 | |RNA Seq + DGE | Katrina    |Vittorio   | Neuroscience | `Done` | Cell line2 G245 |Payal |Y|July
 | |Single cell RNA Seq  |Marshall   |Jyoti  | Genmed | `Done` |  |Surajit |Y|June
 | |RNA Seq  |Nemnaja    |Ishibashi  | Neuroscience | `Done` | Redo pig dataset with alternative pipleine |Payal |N|July
 | |RNA Seq  | Junko  |Kazue  | Neuroscience | `Done` | Read depth reductiom |Payal |Y|June
-||TCR  |   | |Mike | Cancer | `Done` | |Surajit |Y|4/13/2019
+| |TCR  |   | |Mike | Cancer | `Done` | |Surajit |Y|4/13/2019
 ||RNA Seq  | Toru   |Kazue  | Neuroscience | `Done` | G435 |Payal |Y|3/20/2019 
 | |RNA Seq  | Nemanja   |Ishibashi  | Neuroscience | `Done` | Pig |Surojit |Y|3/1/2019 | |
 | |RNA Seq  | Maria   |Josh  | Neuroscience | `Done` | Featurecounts embryo samples |Payal |Y|3/1/2019 |3/7/2019 |

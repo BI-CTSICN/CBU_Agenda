@@ -5,8 +5,13 @@ menu: header
 ---
 |Project ID| Bioinformatics Analysis  | Requestor   | PI             | Department    | Status | Tags  | Done By |IDDRC (Y/N)| Start Date | End Date|
 |----------| -----------------------  |:----------- | -------------- | ----------    | ------ |------ |------ |------ |------ |------ |
+
+| |Microarray | Ashley Hill  |   | Genmed  | `Coming` |32 Methylation Arrays | |N|August
+| |Microarray | Nikki Posnack  |   | Genmed  | `Coming` | 12 Clariom S Affy Arrays | |N|August
+| |TCR  | Melanie/?Bollard/Rood || Cancer| `Coming` |   |Payal |N| | |
+| |Single Cell  | Susan || Genmed| `Coming` |   |Surajit |Y?| | |
 | |Single Cell  | Ishibashi |Camille| Neuroscience| `Coming` |   |Payal |N| | |
-| |RNA Seq  | Susan || Genmed | `Coming` |   |Payal |N| | |
+| |RNA Seq  | James Novak || Genmed | `Coming` |   |Payal |N| | |
 | |RNA Seq  |  Evan |Vittorio| Neuroscience | `Coming` |   |Payal |N| | |
 | |Microarray | Kate Schunke  |   | Genmed (Clinical) | `To Do` | Human |Surajit |N|July
 | |Microarray | Kate Schunke  |   | Genmed (Clinical) | `To Do` | Rat |Surajit |N|July

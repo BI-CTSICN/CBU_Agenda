@@ -6,16 +6,6 @@ menu: header
 |Project ID| Bioinformatics Analysis  | Requestor   | PI             | Department    | Status | Tags  | Done By |IDDRC (Y/N)| Start Date | End Date|
 |----------| -----------------------  |:----------- | -------------- | ----------    | ------ |------ |------ |------ |------ |------ |
 
-| FACs Dbx E13 and E18                                          | Differential expression between + and - samples at each age (E13 and E18) for transcription factor Dbx1 (to be compared with previous data on Foxp2).                                | Maria Jesus  | Herrero Ramon |
-|---------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|---------------|
-| GFP values                                                    | to ask count data of GFP in the data Dbx1 (E13 and E18) previously analyzed by Mme. Payal Banerjee.                                                                                  | Maria Jesus  | Herrero       |
-| AKR cortex embryo/RNAseq                                      |                                                                                                                                                                                      | Claire-Marie | Vacher        |
-| DGE analysis for Foxp2 E13, E18 and males and females adults  | To align to the genome the data for Foxp2 using same pipeline that for Dbx1 data (E13, E18 and males and females adults) by Mme. Payal Banerjee, reporting also count data of GFP.   | Maria Jesus  | Herrero       |
-| G193                                                          |                                                                                                                                                                                      | JUNKO        | SASAKI        |
-| G193_2                                                        |                                                                                                                                                                                      | JUNKO        | SASAKI        |
-| G190-CNP-TRAP                                                 | Recovery from Perinatal Hypoxia in an Enriched Environment                                                                                                                           | Evan         | Goldstein     |
-| G216_HISAT2_Nudup                                             |                                                                                                                                                                                      | Toru         | Sasaki        |
-
 | |RNA Seq + DGE | Katrina    |Vittorio   | Neuroscience | `Done` | Cell line2 G245 |Payal |Y|July
 | |Single cell RNA Seq  |Marshall   |Jyoti  | Genmed | `Done` |  |Surajit |Y|June
 | |RNA Seq  |Nemnaja    |Ishibashi  | Neuroscience | `Done` | Redo pig dataset with alternative pipleine |Payal |N|July

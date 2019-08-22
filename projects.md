@@ -5,16 +5,17 @@ menu: header
 ---
 |Project ID| Bioinformatics Analysis  | Requestor   | PI             | Department    | Status | Tags  | Done By |IDDRC (Y/N)| Start Date | End Date|
 |----------| -----------------------  |:----------- | -------------- | ----------    | ------ |------ |------ |------ |------ |------ |
+| |Chip Seq | Kathryn || Genmed | `Ongoing` |   |Payal |N|August| |
+| |Methylation arrays  | Erin || Genmed | `Ongoing` |   |Payal |N|August| |
+| |RNA Seq  | James Novak || Genmed | `Ongoing` |   |Payal |N|August | |
+| |Single Cell  | Camille |Ishibashi| Neuroscience| `Ongoing` |   |Surajit|N| July| |
 | |Microarray | Ashley Hill  |   | Genmed  | `Coming` |32 Methylation Arrays | |N|August
-| |Microarray | Nikki Posnack  |   | Genmed  | `Coming` | 12 Clariom S Affy Arrays | |N|August
+| |Microarray | Nikki Posnack  |   | Genmed  | `Done` | 12 Clariom S Affy Arrays | Surajit |N|August
 | |TCR  | Melanie/Bollard/Rood || Cancer| `Coming` |   |Payal |N|July | |
 | |Single Cell  | Susan || Genmed| `Coming` |   |Surajit |Y?| July| |
-| |Single Cell  | Camille |Ishibashi| Neuroscience| `Coming` |   |Payal |N| July| |
-| |RNA Seq  | James Novak || Genmed | `Coming` |   |Payal |N|July | |
 | |RNA Seq  |  Evan |Vittorio| Neuroscience | `Coming` |   |Payal |N| July| |
-| |Microarray | Kate Schunke  |   | Genmed (Clinical) | `To Do` | Human |Surajit |N|July
-| |Microarray | Kate Schunke  |   | Genmed (Clinical) | `To Do` | Rat |Surajit |N|July
-| |Single Seq | Joseph    |Vittorio   | Neuroscience | `Ongoing` | Old Fluidigm C1 dataset |Payal/Surajit |N|July
+| |Microarray | Kate Schunke  |   | Genmed (Clinical) | `Done` | Human |Surajit |N|July
+| |Microarray | Kate Schunke  |   | Genmed (Clinical) | `Done` | Rat |Surajit |N|July
 | |RNA Seq + DGE | Katrina    |Vittorio   | Neuroscience | `Done` | Cell line2 G245 |Payal |Y|July
 | |Single cell RNA Seq  |Marshall   |Jyoti  | Genmed | `Done` |  |Surajit |Y|June
 | |RNA Seq  |Nemnaja    |Ishibashi  | Neuroscience | `Done` | Redo pig dataset with alternative pipleine |Payal |N|July

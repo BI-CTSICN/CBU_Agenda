@@ -5,12 +5,12 @@ menu: header
 ---
 |Project ID| Bioinformatics Analysis  | Requestor   | PI             | Department    | Status | Tags  | Done By |IDDRC (Y/N)| Start Date | End Date|
 |----------| -----------------------  |:----------- | -------------- | ----------    | ------ |------ |------ |------ |------ |------ |
-| |Chip Seq | Kathryn || Genmed | `Ongoing` |   |Payal |N|August| |
+| |Chip Seq | Kathryn || GWU | `Ongoing` |   |Payal |N|August| |
 | |Methylation arrays  | Erin || Genmed | `Ongoing` |   |Payal |N|August| |
 | |RNA Seq  | James Novak || Genmed | `Ongoing` |   |Payal |N|August | |
 | |Single Cell  | Camille |Ishibashi| Neuroscience| `Ongoing` |   |Surajit|N| July| |
-| |Microarray | Ashley Hill  |   | Genmed  | `Coming` |32 Methylation Arrays | |N|August
-| |Microarray | Nikki Posnack  |   | Genmed  | `Done` | 12 Clariom S Affy Arrays | Surajit |N|August
+| |Microarray | Ashley Hill  |   | Genmed  | `Ongoing` |32 Methylation Arrays | |N|August
+| |Microarray | Nikki Posnack  |   | Cancer  | `Done` | 12 Clariom S Affy Arrays | Surajit |N|August
 | |TCR  | Melanie/Bollard/Rood || Cancer| `Coming` |   |Payal |N|July | |
 | |Single Cell  | Susan || Genmed| `Coming` |   |Surajit |Y?| July| |
 | |RNA Seq  |  Evan |Vittorio| Neuroscience | `Coming` |   |Payal |N| July| |

@@ -5,15 +5,15 @@ menu: header
 ---
 |Project ID| Bioinformatics Analysis  | Requestor   | PI             | Department    | Status | Tags  | Done By |IDDRC (Y/N)| Start Date | End Date|
 |----------| -----------------------  |:----------- | -------------- | ----------    | ------ |------ |------ |------ |------ |------ |
-| |Chip Seq | Kathryn || GWU | `To Do` |   |Payal |N|August| |
-| |Methylation arrays  | Erin || Genmed | `Ongoing` |   |Payal |N|August| |
-| |RNA Seq  | James Novak || Genmed | `Ongoing` |   |Payal |N|August | |
-| |Single Cell  | Camille |Ishibashi| Neuroscience| `Ongoing` |   |Surajit|N| July| |
-| |Microarray | Ashley Hill  |   | Genmed  | `Ongoing` |32 Methylation Arrays | |N|August
+| |Chip Seq | Kathryn || GWU | `Ongoing` |   |Payal |N|August| |
+| |RNA Seq  |  Evan |Vittorio| Neuroscience | `Ongoing` |   |Payal |N| July| |
+| |Methylation arrays  | Erin || Genmed | `Done` |   |Payal |N|August| |
+| |RNA Seq  | James Novak || Genmed | `Done` |   |Payal |N|August | |
+| |Single Cell  | Camille |Ishibashi| Neuroscience| `Done` |   |Surajit|N| July| |
+| |Microarray | Ashley Hill  |   | Genmed  | `Done` |32 Methylation Arrays | |N|August
 | |Microarray | Nikki Posnack  |   | Cancer  | `Done` | 12 Clariom S Affy Arrays | Surajit |N|August
 | |TCR  | Melanie/Bollard/Rood || Cancer| `Coming` |   |Payal |N|July | |
-| |Single Cell  | Susan || Genmed| `Coming` |   |Surajit |Y?| July| |
-| |RNA Seq  |  Evan |Vittorio| Neuroscience | `Coming` |   |Payal |N| July| |
+| |Single Cell  | Susan || Genmed| `Done` |   |Surajit |Y?| July| |
 | |Microarray | Kate Schunke  |   | Genmed (Clinical) | `Done` | Human |Surajit |N|July
 | |Microarray | Kate Schunke  |   | Genmed (Clinical) | `Done` | Rat |Surajit |N|July
 | |RNA Seq + DGE | Katrina    |Vittorio   | Neuroscience | `Done` | Cell line2 G245 |Payal |Y|July

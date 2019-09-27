@@ -5,8 +5,9 @@ menu: header
 ---
 |Project ID| Bioinformatics Analysis  | Requestor   | PI             | Department    | Status | Tags  | Done By |IDDRC (Y/N)| Start Date | End Date|
 |----------| -----------------------  |:----------- | -------------- | ----------    | ------ |------ |------ |------ |------ |------ |
-| |Chip Seq | Kathryn || GWU | `Ongoing` |   |Payal |N|August| |
-| |RNA Seq  |  Evan |Vittorio| Neuroscience | `Ongoing` |   |Payal |N| July| |
+| |Single Cell  | Camille |Ishibashi| Neuroscience| `Coming` |   |Payal|N| September| |
+| |RNA Seq  |  Evan |Vittorio| Neuroscience | `Ongoing` |   |Payal |N| September| |
+| |Chip Seq | Kathryn || GWU | `Done` |   |Payal |N|August| |
 | |Methylation arrays  | Erin || Genmed | `Done` |   |Payal |N|August| |
 | |RNA Seq  | James Novak || Genmed | `Done` |   |Payal |N|August | |
 | |Single Cell  | Camille |Ishibashi| Neuroscience| `Done` |   |Surajit|N| July| |

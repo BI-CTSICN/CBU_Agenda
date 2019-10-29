@@ -1,0 +1,47 @@
+GENOME_FA="/home/pbanerjee/Payal/snakemake_test/griffithlab_brain_vs_uhr/GRCh38_Ens87_chr22_ERCC/chr22_ERCC92.fa"
+GENOME_GTF="/home/pbanerjee/Payal/snakemake_test/griffithlab_brain_vs_uhr/GRCh38_Ens87_chr22_ERCC/genes_chr22_ERCC92.gtf"
+HISAT2_INDEX_PREFIX="/home/pbanerjee/Payal/snakemake_test/hisat2_index_chr22/chr22_ERCC92"
+SAMPLES, *_=glob_wildcards('/home/pbanerjee/Payal/snakemake_test/griffithlab_brain_vs_uhr/HBR_UHR_ERCC_ds_10pc/{sample}.read1.fastq.gz')
+
+rule build_hisat_index:
+    input:
+        genome_fa=GENOME_FA,
+    output: expand(f"{HISAT2_INDEX_PREFIX}.{{ix}}.ht2", ix=range(1, 9))
+    log: "/home/pbanerjee/Payal/snakemake_test/hisat2_index_chr22/build.log"
+    threads: 8
+    shell:
+        "hisat2-build -p {threads} {input.genome_fa} "
+        "{HISAT2_INDEX_PREFIX} "
+        "2>{log}"
+
+rule align_hisat2:
+    input:
+        hisat2_index=expand(f"{HISAT2_INDEX_PREFIX}.{{ix}}.ht2", ix=range(1, 9)),
+        fastq1="/home/pbanerjee/Payal/snakemake_test/griffithlab_brain_vs_uhr/HBR_UHR_ERCC_ds_10pc/{sample}.read1.fastq.gz",
+        fastq2="/home/pbanerjee/Payal/snakemake_test/griffithlab_brain_vs_uhr/HBR_UHR_ERCC_ds_10pc/{sample}.read2.fastq.gz"
+    output: "/home/pbanerjee/Payal/snakemake_test/align_hisat2_chr222/{sample}.bam"
+#    log: "/home/pbanerjee/Payal/snakemake_test/align_hisat2_chr22/{sample}.log"
+    threads: 8
+    shell:
+        "hisat2 -p {threads} -x {HISAT2_INDEX_PREFIX}"
+        " -1 {input.fastq1} -2 {input.fastq2} |"
+        "samtools sort -@ {threads} -o {output}"
+
+rule align_all:
+    input: expand("/home/pbanerjee/Payal/snakemake_test/align_hisat2_chr222/{sample}.bam", sample=SAMPLES)
+
+rule htseq_counts:
+    input:
+        genome_gtf=GENOME_GTF,
+        bam_file="/home/pbanerjee/Payal/snakemake_test/align_hisat2_chr222/{sample}.bam"
+    output: "/home/pbanerjee/Payal/snakemake_test/htseq_count_output/{sample}.txt"
+    threads: 8
+    shell:
+        "htseq-count --format bam --order pos -t exon {input.bam_file} {input.genome_gtf} > {output}"
+
+rule count_all:
+     input: expand("/home/pbanerjee/Payal/snakemake_test/htseq_count_output/{sample}.txt", sample=SAMPLES)
+
+#run the sankefile using the following command
+#snakemake -p count_all --snakefile Hisat2_Snakemake4	 
+

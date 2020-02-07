@@ -5,7 +5,7 @@ menu: header
 ---
 |Project ID| Bioinformatics Analysis  | Requestor   | PI             | Department    | Status | Tags  | Done By |IDDRC (Y/N)| Start Date | End Date|
 |----------| -----------------------  |:----------- | -------------- | ----------    | ------ |------ |------ |------ |------ |------ |
-| |Single Cell - Pseudotime Analysis | Camille |Ishibashi| Neuroscience| `Ongoing` |   |Payal|N| January | 2020|
+| |Single Cell - Pseudotime Analysis | Camille |Ishibashi| Neuroscience| `Ongoing` |   |Payal|N| January 2020| |
 | |Single Cell - Priliminary Data analysis | Camille |Ishibashi| Neuroscience| `Done` |   |Payal|N| October| |
 | |Single Cell  | Joseph |Vittorio| Neuroscience| `Done` |   |Payal|N| October| |
 | |RNA Seq  |  Evan |Vittorio| Neuroscience | `Done` |   |Payal |N| September| |

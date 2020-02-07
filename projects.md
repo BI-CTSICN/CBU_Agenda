@@ -3,7 +3,7 @@ layout: page
 title: Project Dashboard
 menu: header
 ---
-|Project ID| Bioinformatics Analysis  | Requestor   | PI             | Department    | Status | IDDRC (Y/N)  | Done By || Start Date | End Date|
+|Project ID| Bioinformatics Analysis  | Requestor   | PI             | Department    | Status | Tags  | Done By |IDDRC (Y/N)| Start Date | End Date|
 |----------| -----------------------  |:----------- | -------------- | ----------    | ------ |------ |------ |------ |------ |------ |
 | |Single Cell - Pseudotime Analysis | Camille |Ishibashi| Neuroscience| `Ongoing` |   |Payal|N| January | 2020|
 | |Single Cell - Priliminary Data analysis | Camille |Ishibashi| Neuroscience| `Done` |   |Payal|N| October| |
